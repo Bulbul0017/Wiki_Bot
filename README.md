@@ -4,7 +4,7 @@ This telegram bot posts a random Wikipedia article and the summary to a telegram
 
 ## Run Locally
 
-To start type the following in the termina
+To start type the following in the terminal
 
 ```bash
   npm init
